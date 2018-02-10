@@ -8,8 +8,8 @@ If you are on linux, you can download the linux branch, and navigate to the fold
 
 If you are on Windows, download the Windows branch, launch the "boingcoin-qt.exe" file. This will put you directly into the boingcoin interface, and will begin downloading the transaction history.
 
-#Mining
+# Mining
 To mine, you don't need any extra tools. You can use your client that you have already downloaded, go the "Help" dropdown menu near the top, and click "Debug Window". Once you arrive there, you can click on the "console" tab, and input the command "setgenerate true" without the quotes. This will immediately start mining, and you can collect data on your mining by typing the command "getminginginfo" without the quotes. Now you're all setup.
 
-#Roadmap
+# Roadmap
 The current roadmap outlines the oncoming setup of a mining pool, and links to where you can set one up for yourself if you please. Next on the roadmap would be to make a website where you could buy physical items from each other for Boingcoin.
